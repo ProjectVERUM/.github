@@ -8,4 +8,4 @@ At the core of this architecture is **Radix**, a semantic occupancy-grid mapping
   <img src="radix_square.png" width="40%" style="max-width:200px; min-width:120px;">
 </p>
 
-VERUM is a collaborative project of the *Fraunhofer Application Center "Networked Mobility and Infrastructure"*, *HENSOLDT Analytics GmbH*, and *Ancud IT-Beratung GmbH*, and is funded by the *Bavarian Ministry of Economic Affairs, Regional Development and Energy*.
+VERUM was a collaborative project of the *Fraunhofer Application Center "Networked Mobility and Infrastructure"*, *HENSOLDT Analytics GmbH*, and *Ancud IT-Beratung GmbH*, funded by the *Bavarian Ministry of Economic Affairs, Regional Development and Energy* between 2023 and 2025.

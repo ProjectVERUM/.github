@@ -1,12 +1,8 @@
-## Hi there 👋
+## VERUM
 
-<!--
+In the aviation sector, and particularly within Urban Air Mobility (UAM), the trustworthiness, reliability, and certifiability of AI-based environment-perception systems remain significant unresolved challenges. The VERUM (VERtrauenswürdige UMfelderkennung) project addresses these issues by developing a reference architecture for trustworthy environment perception tailored to UAM applications. 
 
-**Here are some ideas to get you started:**
+At the core of this architecture is **Radix**, a semantic occupancy-grid mapping approach that is made available as open-source software through this organization.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+VERUM is a collaborative initiative of the *Fraunhofer Application Center "Networked Mobility and Infrastructure"*, *HENSOLDT Analytics GmbH*, and *Ancud IT-Beratung GmbH*, and is funded by the *Bavarian Ministry of Economic Affairs, Regional Development and Energy*.
